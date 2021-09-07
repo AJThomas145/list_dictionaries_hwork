@@ -44,4 +44,5 @@ total_population = 0
 
 for people in united_kingdom:
   total_population += people["population"]
-print(people[total_population])
+ 
+print(total_population)
